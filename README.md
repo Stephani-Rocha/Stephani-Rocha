@@ -4,7 +4,7 @@
 - 🌱 Estudante de Desenvolvimento Web Full Stack|Trybe
 - 📫 Contate-me no e-mail: gomes.stephani19@gmail.com
 - 😄 Pronomes: ela/dela
-- 🌎 Sou de São Paulo-BR
+- 🌎 São Paulo-BR
 
 <div align="left">
   <a href="https://github.com/Stephani-Rocha">
