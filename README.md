@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Stephani 🖖🏼
 
 
-- 🌱 Estudante de Desenvolvimento Web Full Stack | Trybe
+- 👩‍💻 Desenvolvedora Web Full-Stack
 - 📫 Contate-me no e-mail: gomes.stephani19@gmail.com
 - 😄 Pronomes: ela/dela
 - 🌎 São Paulo-BR
